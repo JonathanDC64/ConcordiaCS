@@ -9,7 +9,7 @@
   </header>
 
   <body>
-    <table>
+    <table border="1">
       <tr>
         <td>
           Books
