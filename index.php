@@ -21,7 +21,7 @@
 
       <tr>
         <td>
-          COMP348 Principles of Programming Languages(Username: COMP348, Pass: A348C)
+          COMP348(Username: COMP348, Pass: A348C)
         </td>
         <td>
           <a href="https://users.encs.concordia.ca/~c348_2/">Link</a>
@@ -30,10 +30,19 @@
 
       <tr>
 				<td>
-          COMP228 System Hardware(Username: COMP228, Pass: A228C)
+          COMP228(Username: COMP228, Pass: A228C)
         </td>
         <td>
           <a href="https://users.encs.concordia.ca/~c228_2/">Link</a>
+        </td>
+      </tr>
+
+			<tr>
+				<td>
+          Vectors and Matrices Mathematica
+        </td>
+        <td>
+          <a href="https://reference.wolfram.com/language/tutorial/LinearAlgebraInMathematicaOverview.html">Link</a>
         </td>
       </tr>
     </table>
