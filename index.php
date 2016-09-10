@@ -5,7 +5,7 @@
   <head>
     <title>Concordia CS Resource</title>
 		<!--Import Google Icon Font-->
-     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+     <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		 <!-- Compiled and minified CSS -->
 		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
 
