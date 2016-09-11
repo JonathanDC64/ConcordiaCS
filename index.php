@@ -1,6 +1,4 @@
-<?php
-	require_once("counter.php");
-?>
+<?php require_once("counter.php"); ?>
 <html>
   <head>
     <title>Concordia CS Resource</title>
@@ -9,7 +7,7 @@
 		 <!-- Compiled and minified CSS -->
 		 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
 
-		 <link rel="stylesheet" href="styles.css" />
+		 <link rel="stylesheet" href="css/styles.css" />
 
      <!--Let browser know website is optimized for mobile-->
      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -32,31 +30,33 @@
 	<main>
 		<div class="container">
 			<div class="section">
-				<table class="highlight bordered">
-				  <tr>
-					<td>
-					  <a class="red waves-effect waves-light btn" href="https://www.dropbox.com/sh/8mwvtj99dagmvbo/AAC8YDn2J-Y1ZN7ymbRIB3Lga?dl=0">Books</a>
-					</td>
-				  </tr>
+				<div class="card-panel grey darken-3">
+					<table class="highlight">
+					  <tr>
+						<td>
+						  <a class="red waves-effect waves-light btn" href="https://www.dropbox.com/sh/8mwvtj99dagmvbo/AAC8YDn2J-Y1ZN7ymbRIB3Lga?dl=0">Books</a>
+						</td>
+					  </tr>
 
-				  <tr>
-					<td>
-					  <a class="red waves-effect waves-light btn"  href="https://users.encs.concordia.ca/~c348_2/">COMP348(Username: COMP348, Pass: A348C)</a>
-					</td>
-				  </tr>
+					  <tr>
+						<td>
+						  <a class="red waves-effect waves-light btn"  href="https://users.encs.concordia.ca/~c348_2/">COMP348(Username: COMP348, Pass: A348C)</a>
+						</td>
+					  </tr>
 
-				  <tr>
-					<td>
-					  <a class="red waves-effect waves-light btn"  href="https://users.encs.concordia.ca/~c228_2/">COMP228(Username: COMP228, Pass: A228C)</a>
-					</td>
-				  </tr>
+					  <tr>
+						<td>
+						  <a class="red waves-effect waves-light btn"  href="https://users.encs.concordia.ca/~c228_2/">COMP228(Username: COMP228, Pass: A228C)</a>
+						</td>
+					  </tr>
 
-				<tr>
-					<td>
-					  <a class="red waves-effect waves-light btn"  href="https://reference.wolfram.com/language/tutorial/LinearAlgebraInMathematicaOverview.html">Vectors and Matrices Mathematica</a>
-					</td>
-				</tr>
-				</table>
+					<tr>
+						<td>
+						  <a class="red waves-effect waves-light btn"  href="https://reference.wolfram.com/language/tutorial/LinearAlgebraInMathematicaOverview.html">Vectors and Matrices Mathematica</a>
+						</td>
+					</tr>
+					</table>
+				</div>
 			</div>
 		</div>
 	</main>

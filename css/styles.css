@@ -2,7 +2,7 @@ body {
    display: flex;
    min-height: 100vh;
    flex-direction: column;
-   background-image: url("//www.cjnews.com/wp-content/uploads/2016/04/Concordia_University_02.jpg");
+   background-image: url("../img/concordia.jpg");
    background-size: cover;
  }
 
@@ -13,4 +13,3 @@ main {
 .page-footer{
    padding-top: 0px !important;
 }
-
