@@ -31,7 +31,7 @@
 		<div class="container">
 			<div class="section">
 				<div class="card-panel grey darken-3">
-					<table class="highlight">
+					<table class="highlight centered">
 					  <tr>
 						<td>
 						  <a class="red waves-effect waves-light btn" href="https://www.dropbox.com/sh/8mwvtj99dagmvbo/AAC8YDn2J-Y1ZN7ymbRIB3Lga?dl=0">Books</a>
@@ -53,6 +53,11 @@
 					<tr>
 						<td>
 						  <a class="red waves-effect waves-light btn"  href="https://reference.wolfram.com/language/tutorial/LinearAlgebraInMathematicaOverview.html">Vectors and Matrices Mathematica</a>
+						</td>
+					</tr>
+					<tr>
+						<td>
+						  <a class="red waves-effect waves-light btn"  href="https://quizlet.com/62307864/bio-ethics-flash-cards/">Biomedical Ethics</a>
 						</td>
 					</tr>
 					</table>
